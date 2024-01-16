@@ -20,7 +20,6 @@ Bem-vindo ao projeto de Gerenciamento de Academia desenvolvido em JSP! Este proj
   
 ## Tecnologias Usadas
 
-* Tecnologias Utilizadas
 * Java Server Pages (JSP)
 * Servlets
 * JavaBeans
