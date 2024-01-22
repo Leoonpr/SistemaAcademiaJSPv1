@@ -1,6 +1,6 @@
 # SistemaAcademiaJSP
 
-Bem-vindo ao projeto de Gerenciamento de Academia desenvolvido em JSP! Este projeto é uma aplicação web simples para ajudar na administração de uma academia, permitindo o cadastro e listagem de turmas, atividades, instrutores e alunos. Além disso, inclui uma tela de login com filtro para controle de acesso.
+Bem-vindo ao projeto de Gerenciamento de Academia desenvolvido em JSP! Este projeto é uma aplicação web simples para ajudar na administração de uma academia, permitindo o cadastro e listagem de turmas, atividades, instrutores e alunos.
 
 ## Recursos
 
@@ -12,10 +12,6 @@ Bem-vindo ao projeto de Gerenciamento de Academia desenvolvido em JSP! Este proj
 2- Edição e Exclusão de itens
 
 * Edite ou exlua itens cadastrados
-
-3- Tela de Login com Filtro de Acesso
-
-* Acesso restrito por meio de um sistema de autenticação.
 
   
 ## Tecnologias Usadas
